@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChromeDriver", "ChromeDriver\ChromeDriver.csproj", "{ED361E87-EC7F-47AF-AB03-269D12599457}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED361E87-EC7F-47AF-AB03-269D12599457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED361E87-EC7F-47AF-AB03-269D12599457}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED361E87-EC7F-47AF-AB03-269D12599457}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED361E87-EC7F-47AF-AB03-269D12599457}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75EE281A-E0C9-4B46-9AD2-3ADA6188ED19}
+	EndGlobalSection
+EndGlobal
